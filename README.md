@@ -14,6 +14,7 @@ The game rules are found in the `mercenaries_game_rules.md` file.
 
 Any feedback on this game is greatly appreciated! Get in touch with me @sprotch on Discord.
 
-## Other card games
+## Other games inspried by the Warcraft franchise
 
-[Elementals](https://github.com/spycherf/elementals), a single-player card game also inspired by Warcraft
+- [Creeps](https://github.com/spycherf/creeps), a single-player card game
+- [Elementals](https://github.com/spycherf/elementals), another single-player card game
